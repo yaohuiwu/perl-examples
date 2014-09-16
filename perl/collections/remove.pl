@@ -14,7 +14,7 @@ Getopt::Long::GetOptions(
 );
 
 if(!$all or !$part){
-	say"Usage: remove.pl -a all_file -p part_file";
+	say"Usage: remove.pl -a all_file -p part_file [-o out_file]";
 	exit 0;
 }
 
