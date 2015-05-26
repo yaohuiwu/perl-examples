@@ -1,0 +1,4 @@
+name,version,host,port,DbHost,DbPort,DbUser,DbPassword
+本地MDM,v3.2,localhost,8080,,,,
+Ebag测试MDM,v3.2,192.168.10.82,9100,,,,
+Ebag开发MDM,v3.2,192.168.10.91,9100,192.168.10.26,,,
